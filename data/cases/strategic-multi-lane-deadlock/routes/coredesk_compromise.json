@@ -1,0 +1,5 @@
+{
+  "label": "CoreDesk wins as pragmatic compromise",
+  "events": ["010_requester_deadline_change", "008_coredesk_free_onboarding"],
+  "expected_final_lifecycle": "review"
+}

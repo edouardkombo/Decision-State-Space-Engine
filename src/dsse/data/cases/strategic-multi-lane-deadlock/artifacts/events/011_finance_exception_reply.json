@@ -1,0 +1,10 @@
+{
+  "key": "011_finance_exception_reply",
+  "title": "Finance denied the exception request",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/emails/011_finance_exception_reply.eml",
+  "provider": "AlphaSoft",
+  "deltas": [
+    {"field": "add_blocker", "before": null, "after": "AlphaSoft finance exception denied"}
+  ],
+  "notes": ["No safe finance-approved path remains for annual prepay"]
+}

@@ -1,0 +1,10 @@
+{
+  "key": "008_coredesk_free_onboarding",
+  "title": "CoreDesk offered free onboarding for term extension",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/emails/008_coredesk_free_onboarding.eml",
+  "provider": "CoreDesk",
+  "deltas": [
+    {"field": "add_strength", "before": null, "after": "free onboarding for term extension"}
+  ],
+  "notes": ["Commercially attractive but delivery risk remains"]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "013_legal_fallback_update",
+  "title": "Legal approved AlphaSoft fallback clause",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/events/013_legal_fallback_update.eml",
+  "provider": "AlphaSoft",
+  "deltas": [
+    {"field": "remove_blocker", "before": "AlphaSoft legal blocker on liability language", "after": "AlphaSoft legal blocker on liability language"},
+    {"field": "add_strength", "before": null, "after": "legal fallback approved"}
+  ],
+  "notes": ["Major legal unblock event"]
+}

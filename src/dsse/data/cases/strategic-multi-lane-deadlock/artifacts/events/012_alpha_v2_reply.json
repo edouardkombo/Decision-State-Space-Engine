@@ -1,0 +1,11 @@
+{
+  "key": "012_alpha_v2_reply",
+  "title": "AlphaSoft submitted Offer v2",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/events/012_alpha_v2_reply.eml",
+  "provider": "AlphaSoft",
+  "deltas": [
+    {"field": "price", "before": 148000, "after": 136000},
+    {"field": "term_months", "before": 36, "after": 24}
+  ],
+  "notes": ["Payment remains annual upfront", "Legal language remains unchanged"]
+}

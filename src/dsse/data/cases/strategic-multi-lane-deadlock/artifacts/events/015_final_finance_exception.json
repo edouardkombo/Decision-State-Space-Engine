@@ -1,0 +1,11 @@
+{
+  "key": "015_final_finance_exception",
+  "title": "Finance approved restricted exception for AlphaSoft prepay",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/events/015_final_finance_exception.eml",
+  "provider": "AlphaSoft",
+  "deltas": [
+    {"field": "remove_blocker", "before": "AlphaSoft finance blocker on annual prepay", "after": "AlphaSoft finance blocker on annual prepay"},
+    {"field": "add_strength", "before": null, "after": "finance exception granted"}
+  ],
+  "notes": ["Finance unblock allows close preparation"]
+}

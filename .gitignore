@@ -1,0 +1,5 @@
+.venv/
+.git/
+*/dsse.egg-info/
+*/__pycache__/
+src/dsse/__pycache__/

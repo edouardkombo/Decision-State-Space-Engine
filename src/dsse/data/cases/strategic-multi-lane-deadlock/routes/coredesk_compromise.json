@@ -1,0 +1,9 @@
+{
+  "label": "CoreDesk becomes the pragmatic compromise under deadline pressure",
+  "events": [
+    "010_requester_deadline_change",
+    "008_coredesk_free_onboarding"
+  ],
+  "expected_final_lifecycle": "review",
+  "expected_final_leader": "CoreDesk"
+}

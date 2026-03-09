@@ -1,0 +1,36 @@
+{
+  "providers": [
+    {
+      "name": "AlphaSoft",
+      "price": 148000,
+      "term_months": 36,
+      "payment": "annual upfront",
+      "strengths": ["strongest implementation team", "highest delivery confidence"],
+      "weaknesses": ["legal blocker on liability language", "finance resistance to annual upfront"]
+    },
+    {
+      "name": "BetaStack",
+      "price": 124000,
+      "term_months": 12,
+      "payment": "staged",
+      "strengths": ["aggressive commercial flexibility"],
+      "weaknesses": ["security evidence incomplete", "ambiguous residency"]
+    },
+    {
+      "name": "CoreDesk",
+      "price": 129000,
+      "term_months": 24,
+      "payment": "net 30",
+      "strengths": ["cooperative legal posture"],
+      "weaknesses": ["implementation capacity uncertain", "delivery promise may be unrealistic"]
+    },
+    {
+      "name": "DeltaFlow",
+      "price": 118000,
+      "term_months": 24,
+      "payment": "quarterly",
+      "strengths": ["strong technical feature fit"],
+      "weaknesses": ["pricing formula unclear", "subcontractor dependency unclear"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "business_case": "Mission-critical platform replacement",
+  "business_need": "The company must replace its current support and operations platform before contract expiry. Failure to close and begin implementation on time risks service disruption.",
+  "goal": "Close the safest high-value deal within 45 days.",
+  "success_conditions": [
+    "budget target near €120k",
+    "legal and security compliance",
+    "acceptable execution risk",
+    "implementation start within deadline"
+  ]
+}

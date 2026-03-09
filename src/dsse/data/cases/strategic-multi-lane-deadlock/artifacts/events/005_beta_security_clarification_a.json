@@ -1,0 +1,10 @@
+{
+  "key": "005_beta_security_clarification_a",
+  "title": "BetaStack submitted security clarification A",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/emails/005_beta_security_clarification_a.eml",
+  "provider": "BetaStack",
+  "deltas": [
+    {"field": "add_strength", "before": null, "after": "security clarification appears positive"}
+  ],
+  "notes": ["Appears positive but not yet confirmed"]
+}

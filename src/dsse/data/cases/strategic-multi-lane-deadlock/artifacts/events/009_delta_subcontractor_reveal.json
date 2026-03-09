@@ -1,0 +1,11 @@
+{
+  "key": "009_delta_subcontractor_reveal",
+  "title": "DeltaFlow revealed subcontractor dependency",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/emails/009_delta_subcontractor_reveal.eml",
+  "provider": "DeltaFlow",
+  "deltas": [
+    {"field": "add_weakness", "before": null, "after": "subcontractor dependency revealed"},
+    {"field": "add_blocker", "before": null, "after": "DeltaFlow subcontractor execution risk"}
+  ],
+  "notes": ["Feature fit remains strong but execution risk rises"]
+}

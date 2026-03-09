@@ -1,0 +1,9 @@
+{
+  "stakeholders": {
+    "Finance": ["rejects annual prepay", "prefers staged or quarterly payments"],
+    "Legal": ["rejects supplier-friendly liability language"],
+    "Security": ["blocks unclear residency or unclear subprocessors"],
+    "Requester": ["prioritizes fastest stable go-live"],
+    "Executive sponsor": ["informally prefers AlphaSoft"]
+  }
+}

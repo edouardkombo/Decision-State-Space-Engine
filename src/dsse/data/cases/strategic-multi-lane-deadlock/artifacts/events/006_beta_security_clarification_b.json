@@ -1,0 +1,11 @@
+{
+  "key": "006_beta_security_clarification_b",
+  "title": "BetaStack submitted security clarification B",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/emails/006_beta_security_clarification_b.eml",
+  "provider": "BetaStack",
+  "deltas": [
+    {"field": "add_weakness", "before": null, "after": "contradictory security clarification received"},
+    {"field": "add_blocker", "before": null, "after": "BetaStack contradictory security evidence"}
+  ],
+  "notes": ["Residency statement now conflicts with prior clarification"]
+}

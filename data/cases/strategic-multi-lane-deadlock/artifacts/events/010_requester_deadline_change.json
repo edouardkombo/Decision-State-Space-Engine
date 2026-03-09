@@ -1,0 +1,8 @@
+{
+  "key": "010_requester_deadline_change",
+  "title": "Requester reduced implementation deadline from 45 days to 30 days",
+  "source_file": "data/cases/strategic-multi-lane-deadlock/artifacts/emails/010_requester_deadline_change.eml",
+  "provider": null,
+  "deltas": [],
+  "notes": ["Execution certainty becomes more important than pure commercial flexibility"]
+}

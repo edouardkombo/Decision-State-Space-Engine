@@ -1,0 +1,10 @@
+{
+  "label": "AlphaSoft closes after legal and finance unlock",
+  "events": [
+    "012_alpha_v2_reply",
+    "013_legal_fallback_update",
+    "015_final_finance_exception"
+  ],
+  "expected_final_lifecycle": "ready",
+  "expected_final_leader": "AlphaSoft"
+}

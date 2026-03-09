@@ -1,0 +1,9 @@
+{
+  "label": "BetaStack collapses under contradictory security evidence",
+  "events": [
+    "005_beta_security_clarification_a",
+    "006_beta_security_clarification_b"
+  ],
+  "expected_final_lifecycle": "review",
+  "expected_final_leader": "CoreDesk"
+}

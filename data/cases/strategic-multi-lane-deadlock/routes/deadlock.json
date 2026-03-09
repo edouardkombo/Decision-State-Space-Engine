@@ -1,0 +1,5 @@
+{
+  "label": "No safe close path remains",
+  "events": ["009_delta_subcontractor_reveal", "011_finance_exception_reply"],
+  "expected_final_lifecycle": "review"
+}
