@@ -205,4 +205,3 @@ This codebase is designed as a strong, professional starter. It includes:
 - explicit lifecycle stages
 - route orchestration
 
-You should still validate the actual database, model download, and environment integration in your deployment environment before calling it production-complete.
